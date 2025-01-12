@@ -4,14 +4,6 @@ from datetime import datetime
 # This builder method has been created based on the HL7 FHIR standard with R4 format
 
 """
-expected input flat file example
-
-"is_active": True, not mandatory
-"name" : "Sourav Banerjee", full name, required
-"dob": "YYYY-MM-DD",
-"image": "https://example.com/image.jpg",
-"gender": "male" 
-"email: : "sb@unitedwecare.com"
 
 
 """
